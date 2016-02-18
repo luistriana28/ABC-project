@@ -1,0 +1,31 @@
+Time : 01:27:59
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'fk_materias_has_grupos_materias1_idx'
+Raw SQL : INSERT INTO asignaturas (materia,grupo,profesor) VALUES (:materia,:grupo,:profesor)
+
+Time : 01:27:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'fk_materias_has_grupos_materias1_idx'
+Raw SQL : INSERT INTO asignaturas (materia,grupo,profesor) VALUES (:materia,:grupo,:profesor)
+
+Time : 01:27:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'fk_materias_has_grupos_materias1_idx'
+Raw SQL : INSERT INTO asignaturas (materia,grupo,profesor) VALUES (:materia,:grupo,:profesor)
+
+Time : 01:27:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'fk_materias_has_grupos_grupos1_idx'
+Raw SQL : INSERT INTO asignaturas (materia,grupo,profesor) VALUES (:materia,:grupo,:profesor)
+
+Time : 01:27:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'fk_materias_has_grupos_grupos1_idx'
+Raw SQL : INSERT INTO asignaturas (materia,grupo,profesor) VALUES (:materia,:grupo,:profesor)
+
+Time : 01:27:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'fk_materias_has_grupos_grupos1_idx'
+Raw SQL : INSERT INTO asignaturas (materia,grupo,profesor) VALUES (:materia,:grupo,:profesor)
+
+Time : 01:23:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user' in 'field list'
+Raw SQL : SELECT id as 'value', user as 'option' FROM materias
+
+Time : 01:23:22
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user' in 'field list'
+Raw SQL : SELECT id as 'value', user as 'option' FROM materias

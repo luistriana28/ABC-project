@@ -1,0 +1,19 @@
+Time : 23:22:30
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in field list is ambiguous
+Raw SQL : SELECT id,nombre,turno, carreras.nombre AS carrera FROM grupos LEFT JOIN carreras ON grupos.carrera = carreras.nombre
+
+Time : 23:17:07
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre' in field list is ambiguous
+Raw SQL : SELECT grupos.id,nombre,turno, carreras.nombre AS carrera FROM grupos LEFT JOIN carreras ON grupos.carrera = carreras.nombre
+
+Time : 23:17:02
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in field list is ambiguous
+Raw SQL : SELECT id,nombre,turno, carreras.nombre AS carrera FROM grupos LEFT JOIN carreras ON grupos.carrera = carreras.nombre
+
+Time : 23:15:46
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in field list is ambiguous
+Raw SQL : SELECT id,nombre,turno, carreras.nombre AS carrera FROM grupos LEFT JOIN carreras ON grupos.carrera = carreras.nombre
+
+Time : 22:55:12
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Raw SQL : SELECT Array FROM grupos

@@ -1,0 +1,29 @@
+Time : 22:46:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'turno' in 'field list'
+Raw SQL : SELECT 
+					unidades.id, 
+					unidades.nombre, 
+					turno, 
+					carreras.nombre as 'carrera' 
+				FROM unidades
+					LEFT JOIN 
+				carreras ON carreras.id = unidades.carrera
+
+Time : 22:46:06
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'turno' in 'field list'
+Raw SQL : SELECT 
+					unidades.id, 
+					unidades.nombre, 
+					turno, 
+					carreras.nombre as 'carrera' 
+				FROM unidades
+					LEFT JOIN 
+				carreras ON carreras.id = unidades.carrera
+
+Time : 20:59:19
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'descripcion' in 'field list'
+Raw SQL : INSERT INTO materias (nombre,descripcion) VALUES (:nombre,:descripcion)
+
+Time : 20:59:17
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'descripcion' in 'field list'
+Raw SQL : INSERT INTO materias (nombre,descripcion) VALUES (:nombre,:descripcion)

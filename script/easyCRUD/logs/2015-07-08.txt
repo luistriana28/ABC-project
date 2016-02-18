@@ -1,0 +1,35 @@
+Time : 01:14:15
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'matricula' in 'field list'
+Raw SQL : INSERT INTO profesores (nombre,a_paterno,a_materno,matricula,usuario,grupo) VALUES (:nombre,:a_paterno,:a_materno,:matricula,:usuario,:grupo)
+
+Time : 01:14:15
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'matricula' in 'field list'
+Raw SQL : INSERT INTO profesores (nombre,a_paterno,a_materno,matricula,usuario,grupo) VALUES (:nombre,:a_paterno,:a_materno,:matricula,:usuario,:grupo)
+
+Time : 01:14:12
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'matricula' in 'field list'
+Raw SQL : INSERT INTO profesores (nombre,a_paterno,a_materno,matricula,usuario,grupo) VALUES (:nombre,:a_paterno,:a_materno,:matricula,:usuario,:grupo)
+
+Time : 01:14:12
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'matricula' in 'field list'
+Raw SQL : INSERT INTO profesores (nombre,a_paterno,a_materno,matricula,usuario,grupo) VALUES (:nombre,:a_paterno,:a_materno,:matricula,:usuario,:grupo)
+
+Time : 01:14:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'matricula' in 'field list'
+Raw SQL : INSERT INTO profesores (nombre,a_paterno,a_materno,matricula,usuario,grupo) VALUES (:nombre,:a_paterno,:a_materno,:matricula,:usuario,:grupo)
+
+Time : 01:14:09
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'matricula' in 'field list'
+Raw SQL : INSERT INTO profesores (nombre,a_paterno,a_materno,matricula,usuario,grupo) VALUES (:nombre,:a_paterno,:a_materno,:matricula,:usuario,:grupo)
+
+Time : 01:14:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'matricula' in 'field list'
+Raw SQL : INSERT INTO profesores (nombre,a_paterno,a_materno,matricula,usuario,grupo) VALUES (:nombre,:a_paterno,:a_materno,:matricula,:usuario,:grupo)
+
+Time : 01:14:02
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'matricula' in 'field list'
+Raw SQL : INSERT INTO profesores (nombre,a_paterno,a_materno,matricula,usuario,grupo) VALUES (:nombre,:a_paterno,:a_materno,:matricula,:usuario,:grupo)
+
+Time : 01:14:01
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'matricula' in 'field list'
+Raw SQL : INSERT INTO profesores (nombre,a_paterno,a_materno,matricula,usuario,grupo) VALUES (:nombre,:a_paterno,:a_materno,:matricula,:usuario,:grupo)
